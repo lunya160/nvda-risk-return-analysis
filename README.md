@@ -5,7 +5,7 @@
 **Notebook:** [nvda_risk_return_analysis.ipynb](nvda_risk_return_analysis.ipynb) (runs in Google Colab)
 
 ## Data
-- Kaggle: *Nvidia Historical Stock Data* (6,958 daily observations, 1999-01-22 to 2026-09-21). [the dataset link here.](https://www.kaggle.com/datasets/muhammadishahrukh/nvidia-historical-stock-data)
+- Kaggle: *Nvidia Historical Stock Data* (6,958 daily observations, 1999-01-22 to 2026-09-21). [Nvidia Historical Stock Data on Kaggle](https://www.kaggle.com/datasets/muhammadishahrukh/nvidia-historical-stock-data)
 - Benchmark: SPY (S&P 500 ETF) from Yahoo Finance via `yfinance`.
 - Only the raw price and volume columns were used. All returns and risk metrics were recomputed from scratch.
 
